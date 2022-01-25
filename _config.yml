@@ -7,7 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei-Zhu Yeoh"
+# theme                    : minimal-mistakes-jekyll
+# minimal_mistakes_skin    : "dark"
+title                    : "Yeoh"
 title_separator          : "-"
 name                     : &name "Wei-Zhu Yeoh"
 description              : &description "PhD Student at CISPA"
@@ -104,8 +106,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3605-345X"
+  linkedin         : "yeohweizhu"
+  orcid            : "https://orcid.org/0000-0002-3605-345X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

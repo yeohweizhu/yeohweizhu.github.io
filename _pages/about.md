@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Wei-Zhu home on the web.
+<p style="text-align: justify;">
+I am currently a PhD student at <a href="https://cispa.de">CISPA Helmholtz Center for Information Security</a> and I am advised by <a href="https://cispa.de/en/people/lucjan.hanzlik/">Prof. Lucjan Hanzlik</a>. I received my M.Sc. Computer Science from <a href="https://www.usm.my/">Universiti Sains Malaysia</a> with the supervision from <a href="https://www.tehjesen.com/">Prof. Je Sen Teh</a>. My research interests include but not limited to cryptography, GPU, parallel computing, and machine learning.
+</p>
