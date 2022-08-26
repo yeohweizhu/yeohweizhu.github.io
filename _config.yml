@@ -126,7 +126,7 @@ include:
   - .htaccess
   - _pages
   - files
-  [".well-known"]
+  - .well-known
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
