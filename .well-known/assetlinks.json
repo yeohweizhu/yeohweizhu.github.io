@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "saarland.cispa.trust.fido_attr3",
+    "sha256_cert_fingerprints":
+    ["03:70:78:3A:DC:D7:D2:0B:9E:49:3C:51:6F:F9:08:95:C1:FF:E5:6C:C9:D5:29:69:7D:23:2F:4D:D2:1A:86:7F"]
+  }
+}]
